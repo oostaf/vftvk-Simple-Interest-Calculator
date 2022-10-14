@@ -1,4 +1,33 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+	background-color:black;
+	font-family:arial;
+	color:white;
+}
+h1{
+	color:grey;
+	font-family:verdana
+}
+.maindiv {
+	background-color:white; 
+	color:black; 
+	width: 500px; 
+	padding: 20px; 
+	border-radius: 25px; 
+	text-align:center;
+}
+.fieldset{
+	width: 350px; 
+	text-align:left;
+	margin: 0 auto;
+}
 
 
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+
+footer{
+	text-align:left;
+}
